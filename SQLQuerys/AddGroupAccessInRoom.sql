@@ -1,0 +1,1 @@
+exec ACMS.dbo.AddGroupAccessInRoom @StaffGroupID = 4, @RoomID = 3, @SheduleID = 4, @StartAccessTime = N'11.23.2015 8:00:00';

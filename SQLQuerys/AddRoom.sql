@@ -1,0 +1,1 @@
+Exec ACMS.dbo.AddRoom @RoomTypeID = 10, @Area = 170, @WorkPlaces = 12;

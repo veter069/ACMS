@@ -1,0 +1,1 @@
+Exec ACMS.dbo.AddRoomType @RoomTypeName = 'Отдел разработчиков';

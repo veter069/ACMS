@@ -1,0 +1,1 @@
+exec ACMS.dbo.addStaffGroupName @GroupName = 'Уборщики', @GroupCreationTime = N'12.6.2005 8:00:00';

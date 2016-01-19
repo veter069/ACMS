@@ -1,0 +1,1 @@
+exec ACMS.dbo.AddStaffInGroup @StaffId = 9, @StaffGroupID = 4, @AddInGroupDate = N'6.25.2014 8:00:00';

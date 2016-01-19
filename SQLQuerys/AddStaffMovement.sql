@@ -1,0 +1,1 @@
+Exec ACMS.dbo.AddStaffMovement @StaffID = 10, @RoomID = 4, @EnterTime = N'12.5.2015 8:52:00', @ExitTime = N'12.5.2015 16:58:00';

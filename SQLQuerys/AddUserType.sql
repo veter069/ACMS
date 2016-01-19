@@ -1,0 +1,1 @@
+Exec ACMS.dbo.AddUserType @UserTypeName = 'Руководство предприятия';

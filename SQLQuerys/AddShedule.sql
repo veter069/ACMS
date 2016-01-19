@@ -1,0 +1,1 @@
+Exec ACMS.dbo.AddShedule @Name='Менеджеры', @SheduleStartTime = N'10.12.2015 9:00:00', @Duration = 480, @Periodicity=1440;

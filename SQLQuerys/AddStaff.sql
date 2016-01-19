@@ -1,0 +1,1 @@
+Exec ACMS.dbo.AddStaff @Position = 'Специалист по информационной безопасности', @Surname = 'Зубов', @Name = 'Яков', @MiddleName = 'Михайлович', @Photo = 'E:/photos/Zubov.png', @RecruitmentDate = N'12.6.2006 8:00:00';
